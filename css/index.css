@@ -7,7 +7,7 @@
 
 .container {
 
-    widht: 90%;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -40,7 +40,7 @@
     line-height: 65px;
     text-align: center;
     list-style: none;
-    padding-left: 30px;
+    padding-left: 23px;
     padding-top: 2px;
     
     
@@ -55,13 +55,13 @@
 .menu li {
 
     float: left;
-    width: 153px;
+    width: 133px;
     height: 65px;
     line-height: 65px;
     text-align: center;
     list-style: none;
     font-size: 18px;
-    padding-right: 25px;
+    padding-right: 23px;
     padding-top: 2px;
 }
 
