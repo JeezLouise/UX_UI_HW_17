@@ -1,0 +1,85 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+
+    widht: 90%;
+    margin: 0 auto;
+}
+
+.navbar {
+
+    width: 100%;
+    overflow: hidden;
+    height: 60px;
+    line-height: 60px;
+    background: #ffffff;
+    border-bottom: 3px solid rgb(142, 203, 214);
+}
+
+.logo {
+    
+    float: left;
+    width: 90px;
+    height: 53px;
+    line-height: 50px;
+    padding-left: 23px;
+    padding-top: 3px;
+
+}
+
+.cherie {
+
+    float: left;
+    width: 263px;
+    height: 65px;
+    line-height: 65px;
+    text-align: center;
+    list-style: none;
+    padding-left: 30px;
+    padding-top: 2px;
+    
+    
+}
+
+
+.menu {
+
+    float: right;
+}
+
+.menu li {
+
+    float: left;
+    width: 120px;
+    height: 65px;
+    line-height: 65px;
+    text-align: center;
+    list-style: none;
+    font-size: 20px;
+    padding-right: 23px;
+    padding-top: 2px;
+}
+
+.menu li a {
+
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+    text-transform: uppercase;
+    display: block;
+}
+
+.menu li:hover {
+    
+    background: rgb(142, 203, 214);
+}
+
+.menu li a:hover {
+
+    color: #ffffff;
+}
