@@ -81,12 +81,12 @@
 
 .menu li a:hover {
 
-    color: #ffffff;
+    color: white;
 }
 
 .images {
 
-    padding-top: 66.4px;
+    padding-top: 15px;
 }
 
 .centercontent {
@@ -125,10 +125,11 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        top: 50%;
+        top: 40%;
 }
 
 .button {
+
     background-color: Transparent;
     background-repeat:no-repeat;
     padding: 20px;
@@ -136,12 +137,69 @@
     font-size: 18px; 
     border: 3px solid black;
     margin:0 5px;
-  }
+
+}
   
 .button:hover {
     
     border: 3px solid rgb(186, 208, 212);
     background-color: rgb(186, 208, 212);
-  }
+
+}
+
+footer {
+
+    float: left;
+}
+
+footer li {
+
+    float: left;
+    width: 133px;
+    height: 65px;
+    line-height: 65px;
+    text-align: center;
+    list-style: none;
+    font-size: 18px;
+    padding-right: 23px;
+    padding-top: 2px;
+    bottom: 0;
+
+    background-color: white;
+    
+}
+
+footer {
+    
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+    height: 70px;   
+    background:white;
+
+ }
+
+footer li a {
+
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+    text-transform: uppercase;
+    display: inline-block;
+    bottom: 0px;
+    
+}
+
+footer li:hover {
+    
+    background: rgb(186, 208, 212);
+}
+
+footer li a:hover {
+
+    color: white;
+}
+
+
 
    
