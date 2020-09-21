@@ -18,7 +18,7 @@
     height: 60px;
     line-height: 60px;
     background: #ffffff;
-    border-bottom: 3px solid rgb(142, 203, 214);
+    border-bottom: 3px solid rgb(186, 208, 212);
 }
 
 .logo {
@@ -76,10 +76,21 @@
 
 .menu li:hover {
     
-    background: rgb(142, 203, 214);
+    background: rgb(186, 208, 212);
 }
 
 .menu li a:hover {
 
     color: #ffffff;
 }
+
+.images {
+
+    padding-top: 66.4px;
+}
+
+
+
+
+
+
